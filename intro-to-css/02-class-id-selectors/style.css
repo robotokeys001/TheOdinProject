@@ -1,0 +1,18 @@
+.class1,
+.classCool,
+.class5{
+    background-color:rgb(216, 143, 143);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+.classCool{
+    font-size: 24px;
+}
+#number4{
+    background-color: rgb(143, 216, 147);
+    font-size: 24px;
+    font-weight: 700;
+}
